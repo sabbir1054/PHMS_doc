@@ -19,6 +19,19 @@
 16. [Development Guidelines](#development-guidelines)
 
 ---
+### Application Screenshots
+
+#### Dashboard View
+![Dashboard Screenshot](https://i.ibb.co.com/vxJSsdnJ/1PHN.png)
+
+#### Medicine Distribution
+![Distribution Screenshot](https://i.ibb.co.com/qMw7CCRk/2PHN.png)
+
+#### Medicine Inventory Management
+![Medicine Management Screenshot](https://i.ibb.co.com/bMqj5pPg/3PHN.png)
+
+#### Reports Interface
+![Reports Screenshot](https://i.ibb.co.com/dsNL0fMv/4PHN.png)
 
 ## Project Overview
 
