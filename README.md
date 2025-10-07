@@ -21,17 +21,18 @@
 ---
 ### Application Screenshots
 
-#### Dashboard View
-![Dashboard Screenshot](https://i.ibb.co.com/vxJSsdnJ/1PHN.png)
+#### Login View
+![Dashboard Screenshot](https://i.ibb.co.com/ZvMphJg/PHN1.jpg)
 
-#### Medicine Distribution
-![Distribution Screenshot](https://i.ibb.co.com/qMw7CCRk/2PHN.png)
+#### Report Section
+![Distribution Screenshot](https://i.ibb.co.com/M55hj31D/PHN2.jpg)
 
 #### Medicine Inventory Management
-![Medicine Management Screenshot](https://i.ibb.co.com/bMqj5pPg/3PHN.png)
+![Medicine Management Screenshot](https://i.ibb.co.com/G4sYcpKD/PHN3.jpg)
 
-#### Reports Interface
-![Reports Screenshot](https://i.ibb.co.com/dsNL0fMv/4PHN.png)
+#### Pharmacy Interface
+![Reports Screenshot](https://i.ibb.co.com/Xrys5NBv/PHN4.jpg)
+
 
 ## Project Overview
 
