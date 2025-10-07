@@ -2760,16 +2760,3 @@ taskkill /PID <PID> /F
 This project is proprietary software developed for Bangladesh Police Hospital Narayanganj.
 
 ---
-
-## Credits
-
-**Developed by**: Infinity Algo Station
-**Project**: Police Pharmacy Management System
-**Client**: Bangladesh Police Hospital Narayanganj
-**Year**: 2024
-
----
-
-**End of Documentation**
-
-For questions or support, please contact the development team.
